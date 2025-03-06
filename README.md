@@ -11,7 +11,9 @@ No Momento Estou Estudando:
 ---------------------------------------------------------------------------
 Procuro me Desenvolver em muitas áreas, entre elas:
 
-• **Machine Learning**
-• **Big Data**
-• **Cloud Computing**
+• *Machine Learning*
+
+• *Big Data*
+
+• *Cloud Computing*
 -----------------------------------------------------------------------------
