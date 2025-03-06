@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
 
-[![Typing SVG](
+![Typing SVG](
 https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Paulo+Almeida;Eu+Tenho+18+anos;Eu+Sou+Do+Brasil;Cientista+de+Dados;Seja+Bem+Vindo(a)+ao+meu+Perfil!+:%29)
 
 ### Main skills: 
